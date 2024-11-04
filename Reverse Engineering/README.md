@@ -7,12 +7,3 @@ Here, you’ll find notes, examples, and insights as I progress through various 
 Feel free to follow along or contribute if you’d like to share your own insights. Let's learn together!
 
 ---
-
-**Topics Covered:**
-- Overview of Reverse Engineering basics
-- Tools and techniques
-- Practical examples and case studies
-
-**Disclaimer:** This repository is for educational purposes only. Reverse engineering software that you do not own or have authorization to analyze may be illegal. Always follow ethical guidelines.
-
-Happy learning!
